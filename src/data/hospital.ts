@@ -28,7 +28,7 @@ export const hospital = {
     whatsappNumber: '918886942288',
     whatsappMessage:
       "Hello Sree Avani Women's Hospital, I would like to enquire about an appointment.",
-    email: 'dsumathidevi11@gmail.com'
+    email: 'sreeavaniwomenshospital@gmail.com'
   },
 
   /** Verified hospital address. */
